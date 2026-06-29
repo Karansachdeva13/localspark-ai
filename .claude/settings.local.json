@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(vercel --version)",
+      "Bash(git -C \"/Users/karan.sachdeva/Library/CloudStorage/OneDrive-YPO/Documents/Claude/Projects/Chatbot Website\" status)",
+      "Bash(vercel whoami *)",
+      "Bash(vercel login *)"
+    ]
+  }
+}
